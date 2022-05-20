@@ -13,3 +13,8 @@ iostream como cabecera*/
 
 /*Que permite realizar operaciones de entrada
 y salida estandar por consola en este caso*/
+
+int main()
+{
+    std::cout << "Hello word";
+}
